@@ -6,12 +6,15 @@
 - 💕 I love node.js!
 - 🎉 I am from Brazil and I am currently studying ADS, which in Brazil is Analysis and system development!
 
-## Technologies I use most 🌀!
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Ellathet&theme=dark&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellathet&theme=dark&show_icons=true">
- <div/>
-  
+## More About Me! 🧨
+  <div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Ellathet&count_private=true&show_icons=true&theme=dracula">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Ellathet&hide=php&theme=dracula">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=dracula" />
+</a>
+</div>
 
 <!---
 Ellathet/Ellathet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
