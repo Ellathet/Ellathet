@@ -9,10 +9,10 @@
 ## More About Me! 🧨
   <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Ellathet&count_private=true&show_icons=true&theme=dracula">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=dracula" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Ellathet&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Ellathet&hide=php&theme=dracula">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=dracula" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Ellathet&hide=php&theme=dracula" />
 </a>
 </div>
 
