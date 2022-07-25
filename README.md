@@ -2,7 +2,7 @@
 ## About Me! 👌
 
 - 😜 Hello I'm Micael Thet
-- ⏳ Lately I'm focusing all my free time on learning JavaScript!
+- ⏳ Today I'm working as FullStack developer, using Js and others dev features
 - 💕 I love node.js!
 - 🎉 I am from Brazil and I am currently studying ADS, which in Brazil is Analysis and system development!
 
