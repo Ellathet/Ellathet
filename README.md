@@ -1,7 +1,6 @@
 
 ## About Me! 👌
 
-- 😜 Hello I'm Micael Thet
-- ⏳ Full-stack developer!
-- 💕 I love codes that look difficult!
-- 🎉 I am from Brazil and I never stop learning and studying about programming!
+- 😜 Hello, I'm Mikha
+- ⏳ Currently I work as a full-stack developer!
+- 🇧🇷 I'm from Brazil
